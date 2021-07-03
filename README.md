@@ -4,7 +4,7 @@ This repository consist of the tasks given during my internship at The Sparks Fo
 
 # About The Sparks Foundation
 
-<img src="https://github.com/abdabdullah/TSF-Data-Science-Tasks/blob/master/tsf.png">
+<img src="https://github.com/abdabdullah/TSF-Data-Science-Tasks/blob/main/tsf.png">
 
 [The Sparks Foundation](https://thesparksfoundationsingapore.org/) mission is to inspire students, help them innovate, and let them integrate to build the next generation humankind. To inspire, motivate, and encourage students to learn, create, and help build a better society. To teach new ways of thinking, to innovate and solve the problems on their own. We help the students to integrate and help each other, learn from each other, and do well together.
 
