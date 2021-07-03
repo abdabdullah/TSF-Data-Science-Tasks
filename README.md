@@ -18,8 +18,7 @@ Their Vision Statement : A world of enabled and connected little minds, building
     This is a simple linear regression task as it involves just two variables. Data can be found at http://bit.ly/w-data.
     What will be predicted score if a student study for 9.25 hrs in a day? 
 
-To see the implementation check this link -https://github.com/m0-k1/TSF--Data-Science-Tasks/blob/master/Task%201%20-%20To%20Explore%20Supervised%20Machine%20Learning/Linear-Regression.ipynb
-
+To see the implementation check this link https://github.com/abdabdullah/TSF-Data-Science-Tasks/blob/main/Task%201-Exploring%20Supervised%20ML/Task%201%20Linear%20Regression.ipynb
 ## Task 2 - Exploring Unsupervised Machine Learning
 
     From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
