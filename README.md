@@ -33,7 +33,7 @@ To see the implementation check this link - https://github.com/m0-k1/TSF--Data-S
 
 To see the implementation click on this link - https://github.com/m0-k1/TSF--Data-Science-Tasks/blob/master/Task%203%20-%20Exploring%20Decision%20Trees/Decision-Tree.ipynb
 
-# Authors
+# Author
 
 * **Mohammad Abdullah**  - [Github](https://github.com/abdabdullah)
                      - [Linkedin](https://www.linkedin.com/in/mohammad-abdullah)
