@@ -40,7 +40,7 @@ To see the implementation click on this link - https://github.com/abdabdullah/TS
       predict the right class accordingly.
 
 
-To see the implementation click on this link 
+To see the implementation click on this link - https://github.com/abdabdullah/TSF-Data-Science-Tasks/blob/main/Task6_Decision_Tree_Algorithm.ipynb
 # Author
 
 * **Mohammad Abdullah**  - [Github](https://github.com/abdabdullah)
