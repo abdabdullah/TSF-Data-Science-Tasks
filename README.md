@@ -25,12 +25,12 @@ To see the implementation check this link https://github.com/abdabdullah/TSF-Dat
 
 To see the implementation check this link - https://github.com/m0-k1/TSF--Data-Science-Tasks/blob/master/Task%202%20-%20Exploring%20Unsupervised%20Machine%20Learning/KMeans_Clustering.ipynb
 
-## Task 3 - Exploring Decision Tree Algorithm
+## Task 3 - Exploring Data Analysis on  Business Insights
 
     For the given 'Iris' dataset, create the Decision Tree classifier and visualize it graphically. 
     The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
-To see the implementation click on this link - https://github.com/m0-k1/TSF--Data-Science-Tasks/blob/master/Task%203%20-%20Exploring%20Decision%20Trees/Decision-Tree.ipynb
+To see the implementation click on this link - https://github.com/abdabdullah/TSF-Data-Science-Tasks/blob/main/Task3-EDA.ipynb
 
 ## Task 6 - Prediction using Decision Tree Algorithm
 
