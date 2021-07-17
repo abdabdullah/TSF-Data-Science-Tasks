@@ -23,19 +23,21 @@ To see the implementation check this link https://github.com/abdabdullah/TSF-Dat
 
     From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
 
-To see the implementation check this link - https://github.com/m0-k1/TSF--Data-Science-Tasks/blob/master/Task%202%20-%20Exploring%20Unsupervised%20Machine%20Learning/KMeans_Clustering.ipynb
+To see the implementation check this link - https://github.com/abdabdullah/TSF-Data-Science-Tasks/blob/main/Task%202%20Clustering%20.ipynb
 
 ## Task 3 - Exploring Data Analysis on  Business Insights
 
-    For the given 'Iris' dataset, create the Decision Tree classifier and visualize it graphically. 
-    The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+    Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+    As a business manager, try to find out the weak areas where you can
+    work to make more profit.
 
 To see the implementation click on this link - https://github.com/abdabdullah/TSF-Data-Science-Tasks/blob/main/Task3-EDA.ipynb
 
 ## Task 6 - Prediction using Decision Tree Algorithm
 
-    For the given 'Iris' dataset, create the Decision Tree classifier and visualize it graphically. 
-    The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+   Created the Decision Tree classifier and visualize it graphically.
+   The purpose is if we feed any new data to this classifier, it would be able to
+      predict the right class accordingly.
 
 To see the implementation click on this link 
 # Author
